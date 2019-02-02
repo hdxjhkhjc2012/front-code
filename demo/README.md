@@ -21,7 +21,7 @@
 >
 >
 >
-* [gitHub地址](http://mouapp.com/) 
-* [java狗网站](http://ace.ajax.org/)
+* [gitHub地址](https://github.com/hdxjhkhjc2012/front-code/tree/master/demo) 
+* [java狗网站](http://www.javadog.net)
 
 
