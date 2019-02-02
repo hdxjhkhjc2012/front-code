@@ -1,0 +1,20 @@
+@charset "utf-8";blockquote,body,dd,div,dl,dt,fieldset,form,h1,h2,h3,i,h4,h5,h6,input,li,ol,p,pre,td,textarea,th,ul{margin:0;padding:0;font-style: normal}
+menu,ol,ul{list-style:none;margin:0;padding:0;}
+iframe{background-color:#FFF;vertical-align:middle}
+a{color:#000}
+a:hover{text-decoration:underline;}
+img{vertical-align:middle;display:inline-block}
+a img{border:0 none;text-decoration: none;}
+fieldset{margin:0;padding:0}
+legend{color:windowtext}
+button,input.ie6{overflow:visible;padding:.1em .25em;cursor:pointer}
+input[type=button],input[type=submit],input[type=reset]{overflow:visible;padding:.1em .25em;cursor:pointer}
+input[type=text],select,textarea{background-color:#FFF}
+select{border:1px inset}
+textarea{overflow:auto;vertical-align:text-bottom;border:1px solid;resize:vertical}
+table{border-spacing:0}
+caption,td,th{padding:0}
+.w{
+    width: 1000px;
+    margin: 0 auto;
+}
